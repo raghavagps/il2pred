@@ -4,6 +4,10 @@ A computational method to predict il2 inducing or il2 non-inducing peptides base
 ## Introduction
 il2Pred is a tool developed by Raghva-Lab in 2024. It is designed to predict whether a peptide is il2 inducer or not. It utilizes amino-acid compositions and motifs as features to make predictions using Random Forest. il2pred is also available as web-server at https://webs.iiitd.edu.in/raghava/il2pred. Please read/cite the content about the il2pred for complete information including algorithm behind the approach.
 
+## Reference
+Mehta NK, Lathwal A, Kumar R, Kaur D, Raghava GPS. In Silico tool for predicting, designing and scanning IL-2 inducing peptides. Sci Rep. 2025 Jul 16;15(1):25692.
+
+
 ## PIP Installation
 PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
 ```
