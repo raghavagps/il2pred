@@ -6,7 +6,8 @@ il2Pred is a tool developed by Raghva-Lab in 2024. It is designed to predict whe
 
 ## Reference
 Mehta NK, Lathwal A, Kumar R, Kaur D, Raghava GPS. In Silico tool for predicting, designing and scanning IL-2 inducing peptides. Sci Rep. 2025 Jul 16;15(1):25692.
-
+## Zenodo
+https://doi.org/10.5281/zenodo.19876352
 
 ## PIP Installation
 PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
